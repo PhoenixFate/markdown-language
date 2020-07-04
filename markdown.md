@@ -101,7 +101,7 @@ Content Cell | ContentCell
 * :表示对齐方式，写在左侧表示左对齐，写在右侧表示右对齐，两边都写表示居中对齐
 
 name | age | sex
-:-----: | : ----- | ------:
+:---: | : --- | ---:
 tony | 20 | male
 lucy | 99 | female
 
